@@ -1,3 +1,3 @@
 - [www Component Library](/)
 	- **Text**
-		- [Headings](headings/chatbot.md)
+		- [Headings](text/headings.md)
