@@ -1,3 +1,7 @@
-- [www Component Library](/)
-	- **Text**
-		- [Headings](text/headings.md)
+- [NU Component Libraries](/)
+	- **www**
+		- **Text**
+			- [Headings](text/headings.md)
+			- [Paragraphs](text/paragraphs.md)
+		- **Forms**
+		- **Buttons**
