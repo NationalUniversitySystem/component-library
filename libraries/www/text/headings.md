@@ -4,4 +4,6 @@ We use the WordPress Core "heading" block wherever possible. There are some lega
 
 ## Heading block markup
 
+```
 <h1>Heading one</h1>
+```
