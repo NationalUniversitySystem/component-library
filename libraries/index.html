@@ -28,7 +28,7 @@
 
 			win.EditOnGithubPlugin = {}
 
-			/*function create(docBase, docEditBase, title) {
+			function create(docBase, docEditBase, title) {
 				title = title || 'Edit on GitHub'
 				docEditBase = docEditBase || docBase.replace(/\/blob\//, '/edit/')
 
@@ -79,7 +79,7 @@
 				}
 			}
 
-			win.EditOnGithubPlugin.create = create*/
+			win.EditOnGithubPlugin.create = create
 		}) (window)
 	</script>
 </head>
@@ -89,9 +89,10 @@
 		window.$docsify = {
 			name: '',
 			repo: '',
-			loadSidebar: true,
+			basePath: '/component-library/',
+			loadSidebar: 'libraries/_sidebar.md',
 			coverpage: false,
-			subMaxLevel: 2,
+			subMaxLevel: 3,
 			auto2top: true,
 			sidebarDisplayLevel: 1,
 			search: {
