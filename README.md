@@ -2,6 +2,8 @@
 
 This repo holds code examples of components on the websites managed by the National University web dev team.
 
+ [View the Component Library online](https://nationaluniversitysystem.github.io/component-library/libraries/#/)
+
 We use Jekyll to build out Github Pages for the contents of this site:
 
 - [Set up Jekyll on MacOS](https://jekyllrb.com/docs/installation/macos/)
